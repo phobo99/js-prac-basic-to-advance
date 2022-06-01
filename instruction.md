@@ -1,0 +1,10 @@
+- extension 
+- Turbo console log
+- Visual Studio IntelliCode
+- JavaScript (ES6) code snippets
+- Babel Javascript
+- Auto Rename Tag
+- evondev snippets
+- Live Server
+- Prettier
+- Local History
